@@ -1,1 +1,1 @@
-Инженер по обеспечению качества,  имею теоретические и практические знания по ручному тестированию, присутствуют навыки для проверки WEB приложений, компьютерных программ, API
+Quality assurance engineer, I have theoretical and practical knowledge of manual testing, there are skills to test WEB applications, computer programs, APIs
